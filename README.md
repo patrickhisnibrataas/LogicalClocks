@@ -18,4 +18,4 @@ The VersionData class can be used to track local data in an easy way. It reacts 
 
 ## Disclaimer
 
-This code is not tesed beyond the unit tests written is probably buggy and should not be used :)
+This code is not tesed beyond the unit tests written and is probably buggy and should not be used :)
